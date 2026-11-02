@@ -1,0 +1,2 @@
+# jscoin-core
+jscoin-core
